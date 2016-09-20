@@ -1,9 +1,0 @@
-C:\gh\Tactile-DocuSignSDK\sdk\src\main\csharp\DocuSign\bin\Debug\Tactile.DocuSignSDK.dll
-C:\gh\Tactile-DocuSignSDK\sdk\src\main\csharp\DocuSign\bin\Debug\Tactile.DocuSignSDK.pdb
-C:\gh\Tactile-DocuSignSDK\sdk\src\main\csharp\DocuSign\bin\Debug\Newtonsoft.Json.dll
-C:\gh\Tactile-DocuSignSDK\sdk\src\main\csharp\DocuSign\bin\Debug\RestSharp.dll
-C:\gh\Tactile-DocuSignSDK\sdk\src\main\csharp\DocuSign\bin\Debug\Newtonsoft.Json.xml
-C:\gh\Tactile-DocuSignSDK\sdk\src\main\csharp\DocuSign\bin\Debug\RestSharp.xml
-C:\gh\Tactile-DocuSignSDK\sdk\src\main\csharp\DocuSign\obj\Debug\Tactile.DocuSignSDK.csprojResolveAssemblyReference.cache
-C:\gh\Tactile-DocuSignSDK\sdk\src\main\csharp\DocuSign\obj\Debug\Tactile.DocuSignSDK.dll
-C:\gh\Tactile-DocuSignSDK\sdk\src\main\csharp\DocuSign\obj\Debug\Tactile.DocuSignSDK.pdb
