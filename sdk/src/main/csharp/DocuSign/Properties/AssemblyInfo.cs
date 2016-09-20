@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Tactile.DocuSignSDK")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Tactile fork of Docusign to remove the signed version of RestSharp")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Tactile Limited")]
 [assembly: AssemblyProduct("Tactile.DocuSignSDK")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
