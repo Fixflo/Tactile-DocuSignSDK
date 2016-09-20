@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+	<projectUrl>http://www.letflo.com/Tech/WebAPI</projectUrl>
+	<iconUrl>http://www.letflo.com/Content/Images/Logo/letflo-logo-200x200.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes></releaseNotes>
+    <copyright>$copyright$</copyright>
+    <tags>Letflo WebApi</tags>
+  </metadata>
+  <dependencies>
+  <dependency id="RestSharp" version="105.2.3.0" />
+  <dependency id="Newtonsoft.Json" version="8.0.0.0" />
+</dependencies>
+</package>
