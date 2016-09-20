@@ -4,8 +4,8 @@
     <id>$id$</id>
     <version>$version$</version>
     <title>$title$</title>
-    <authors>$author$</authors>
-    <owners>$author$</owners>
+    <authors>$authors$</authors>
+    <owners>$authors$</owners>
 	<projectUrl>http://www.letflo.com/Tech/WebAPI</projectUrl>
 	<iconUrl>http://www.letflo.com/Content/Images/Logo/letflo-logo-200x200.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
