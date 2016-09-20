@@ -6,16 +6,16 @@
     <title>$title$</title>
     <authors>$author$</authors>
     <owners>$author$</owners>
-	<projectUrl>https://github.com/Fixflo/Tactile-DocuSignSDK/</projectUrl>
-	<iconUrl>http://www.letflo.com/Content/Images/Logo/letflo-logo-200x200.png</iconUrl>
+    <projectUrl>https://github.com/Fixflo/Tactile-DocuSignSDK/</projectUrl>
+    <iconUrl>http://www.letflo.com/Content/Images/Logo/letflo-logo-200x200.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
     <releaseNotes></releaseNotes>
     <copyright>$copyright$</copyright>
     <tags>Tactile fork of DocuSign SDK</tags>
+    <dependencies>
+      <dependency id="RestSharp" version="105.2.3.0" />
+      <dependency id="Newtonsoft.Json" version="8.0.0.0" />
+    </dependencies>
   </metadata>
-  <dependencies>
-  <dependency id="RestSharp" version="105.2.3.0" />
-  <dependency id="Newtonsoft.Json" version="8.0.0.0" />
-</dependencies>
 </package>
